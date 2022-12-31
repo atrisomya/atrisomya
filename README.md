@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
  <img src = "https://api.products.aspose.app/slides/api/Common/DownloadFile/90a9922e-ec5c-4c03-9d2b-9c6ffa0ad3b8?file=result.gif"> 
         <img src = "https://static.wixstatic.com/media/64d7d4_dd575010e54a4eaa8d627a2b448a9b82~mv2.png/v1/fill/w_684,h_528,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/computer%20illustration.png" width = "20%">
 <!--         <img src="https://cdni.iconscout.com/illustration/premium/thumb/female-developer-doing-programming-3839570-3202816.png" alt="Error"> -->
-        <h3>I look forward to solving problems, one bug at a time. </h3>
+        <h3>A skilled professional in making</h3>
     </div>
 <table> 
  <tr>
