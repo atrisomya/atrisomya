@@ -34,7 +34,7 @@ Here are some ideas to get you started: -->
 </div>
 <div>
  <h3>Languages and Tools: </h3>
-  <div align="center">
+  <div>
     <a href="https://www.java.com/en/"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="6%"> </a>
  <a href="https://www.w3.org/html/"> <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" width="5%"> </a>
  <a href="https://www.w3schools.com/css/"> <img src="https://ultimatecourses.com/assets/category/css-fcba6b473cb1125595dc28163be24eb673907258b5f6f6c82967a0587a9df20c.svg" width="5%"> </a>
