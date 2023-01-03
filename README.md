@@ -18,6 +18,7 @@ Here are some ideas to get you started: -->
   <p>  ◦ 🔭 I'm looking for interesting career opportunities as a Java Back-End Developer </p>
   <p>  ◦ 📧 Connect with me at  <a href="mailto:atrisomya@gmail.com"> atrisomya@gmail.com </a></p>
   <p>  ◦ 📄 Checkout my <a href="https://drive.google.com/file/d/1zNs5p_fSuewthjtj2X001pauDclCCbkI/view" > Resume</a></p>
+  <p>  ◦ ⚡ Fun fact: I always carry a book whenever I go out. </p>
  </td>
  <td> 
    <img src="https://cdni.iconscout.com/illustration/premium/thumb/female-developer-doing-programming-3839570-3202816.png" alt="Error"> 
