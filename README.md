@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 <table> 
  <tr>
   <td> 
-   <p> ![](https://komarev.com/ghpvc/?username=atrisomya&color=blueviolet) </p>
+  [![GitHub Views](https://komarev.com/ghpvc/?username=atrisomya&color=blueviolet)]
   <p>  ◦ 💻 I am currently learning Java and Spring.</p>
   <p>  ◦ 💭  Ask me about <b> Spring, Java, Javascript</b> </p>
   <p>  ◦ 🔭 I'm looking for interesting career opportunities as a Java Back-End Developer </p>
