@@ -46,3 +46,6 @@ Here are some ideas to get you started: -->
   <a href=""> <img src="" width="5%"> </a> -->
  </div>
  </div>
+ <div>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atrisomya"/>
+ </div>
