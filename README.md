@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 <!--         <img src="https://cdni.iconscout.com/illustration/premium/thumb/female-developer-doing-programming-3839570-3202816.png" alt="Error"> -->
 <!--         <h3>A skilled professional in making</h3> -->
 <!--     </div> -->
-<img src="https://im5.ezgif.com/tmp/ezgif-5-9d0d364883.gif" />
+<img src="https://lh6.googleusercontent.com/PQdBJEHFLTQIrwoMoH48mHfNeZuam1C_th2bPYfklxHunTNnvvP-h9CvPtgVTju2K2U=w2400" />
 <div align="center">
  <h1>Hi, 👋 I'm Somya Upadhyay</h1>
 <h3> A skilled professional in making </h3>
