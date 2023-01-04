@@ -54,7 +54,6 @@ Here are some ideas to get you started: -->
  </div>
  <p></p>
  <p></p>
- <p></p>
  <h3> Stats: </h3>
  <div>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atrisomya&layout=compact&theme=tokyonight&langs_count=7"/>
