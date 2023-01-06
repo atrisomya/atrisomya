@@ -22,7 +22,7 @@ Here are some ideas to get you started: -->
   <p>  ◦ 💭  Ask me about <b> Spring, Java, Javascript</b> </p>
   <p>  ◦ 🔭 I'm looking for interesting career opportunities as a Java Back-End Developer </p>
   <p>  ◦ 📧 Connect with me at  <a href="mailto:atrisomya@gmail.com"> atrisomya@gmail.com </a></p>
-  <p>  ◦ 📄 Checkout my <a href="https://drive.google.com/file/d/1zNs5p_fSuewthjtj2X001pauDclCCbkI/view" > Resume</a></p>
+<!--   <p>  ◦ 📄 Checkout my <a href="https://drive.google.com/file/d/1zNs5p_fSuewthjtj2X001pauDclCCbkI/view" > Resume</a></p> -->
   <p>  ◦ ⚡ Fun fact: I always carry a book with me. </p>
  </td>
  <td> 
