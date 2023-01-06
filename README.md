@@ -60,7 +60,6 @@ Here are some ideas to get you started: -->
  </div>
  <p></p>
  <p></p>
- <p></p>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=atrisomya&show_icons=true&theme=tokyonight" width="49%">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atrisomya&theme=tokyonight"/ width="49%">
