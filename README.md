@@ -33,9 +33,9 @@ Here are some ideas to get you started: -->
 <div> 
  <h3>Let's Connect: </h3>
  <div>
-  <a href="https://www.linkedin.com/in/100mya-upadhyay/"> <img src="https://www.freeiconspng.com/uploads/displaying-19-gallery-images-for-linkedin-logo-png-25.png" width="4%"> </a>
- <a href="https://leetcode.com/100mya_upadhyay/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1734px-LeetCode_logo_white_no_text.svg.png" width="2.7%"> </a>
- <a href="https://www.hackerrank.com/atrisomya"> <img src="https://sr-marketplace-prod.s3.amazonaws.com/wp-content/uploads/2015/08/HackerRank1.png" width="5%"> </a>
+  <a href="https://www.linkedin.com/in/100mya-upadhyay/" target="_blank"> <img src="https://www.freeiconspng.com/uploads/displaying-19-gallery-images-for-linkedin-logo-png-25.png" width="4%"> </a>
+ <a href="https://leetcode.com/100mya_upadhyay/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1734px-LeetCode_logo_white_no_text.svg.png" width="2.7%"> </a>
+ <a href="https://www.hackerrank.com/atrisomya" target="_blank"> <img src="https://sr-marketplace-prod.s3.amazonaws.com/wp-content/uploads/2015/08/HackerRank1.png" width="5%"> </a>
  </div>
 </div>
 <div>
