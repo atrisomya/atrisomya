@@ -13,6 +13,7 @@ Here are some ideas to get you started: -->
 <div align="center">
  <h1>Hi, 👋 I'm Somya Upadhyay</h1>
 <h2> A skilled professional in making </h2>
+ <p> </p>
  <p> A dedicated and detail-oriented, aspiring Back-end Developer, adept at creating robust and scalable applications using Java and SpringBoot. Effective collaborator with a passion to create good software who is looking forward to a successful career as a Java back-end developer.</p>
  </div>
 <table> 
