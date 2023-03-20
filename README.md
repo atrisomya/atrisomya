@@ -33,7 +33,7 @@ Here are some ideas to get you started: -->
  </tr>
 </table>
 <div> 
- <h3>Let's Connect: </h3>
+ <h3>🌐 Let's Connect: </h3>
  <div>
   <a href="https://www.linkedin.com/in/100mya-upadhyay/" target="_blank"> <img src="https://www.freeiconspng.com/uploads/displaying-19-gallery-images-for-linkedin-logo-png-25.png" width="4%"> </a>
  <a href="https://leetcode.com/100mya_upadhyay/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1734px-LeetCode_logo_white_no_text.svg.png" width="2.7%"> </a>
@@ -41,7 +41,7 @@ Here are some ideas to get you started: -->
  </div>
 </div>
 <div>
- <h3>Languages and Tools: </h3>
+ <h3>🛠️ Languages and Tools: </h3>
   <div>
     <a href="https://www.java.com/en/"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="6%"> </a>
  <a href="https://www.w3.org/html/"> <img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" width="5%"> </a>
@@ -56,11 +56,11 @@ Here are some ideas to get you started: -->
  </div>
  <p></p>
  <p></p>
- <h3> Trophies: </h3>
+ <h3>🏆 Trophies: </h3>
  <div align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=atrisomya&theme=tokyonight">
  </div>
- <h3> Stats: </h3>
+ <h3>📈 Stats: </h3>
  <div>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atrisomya&layout=compact&theme=tokyonight&langs_count=7"/>
  </div>
